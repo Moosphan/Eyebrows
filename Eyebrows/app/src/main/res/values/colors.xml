@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#FfeFFF00</color>
+    <color name="floral_white">#feFFFAF0</color>
+    <color name="misty_rose">#feFFfaee</color>
+    <color name="hot_pink">#eeFF69B4</color>
+    <color name="bisque">#eeFFE4C4</color>
+    <color name="light_coral">#ffF08080</color>
+    <color name="orchid">#ffff70D6</color>
+    <color name="pale_turquoise">#ffAFEEEE</color>
+    <color name="trans_white">#18ffffff</color>
+    <color name="trans_yellow">#45ffffff</color>
+    <color name="trans_gray">#2affffff</color>
+</resources>
