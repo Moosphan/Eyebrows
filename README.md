@@ -1,6 +1,8 @@
 # Eyebrows
 An eyebrows ui library for android.
 
+![image](https://github.com/Moosphan/Eyebrows/blob/b2447c30e01a7fe27874c963ab747eebccde074e/Eyebrows/image/login.gif)
+
 ## Thanks to 
 
 [Spark](https://github.com/TonnyL/Spark)  
