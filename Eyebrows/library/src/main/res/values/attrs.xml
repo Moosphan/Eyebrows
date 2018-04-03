@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Eyebrows">
+        <attr name="bubble_min_size" format="float"/>
+        <attr name="bubble_max_size" format="float"/>
+    </declare-styleable>
+</resources>
