@@ -3,7 +3,7 @@
 
 An sportive and pretty ui library for Android which brings you eyebrows feeling.
 
-![image](https://github.com/Moosphan/Eyebrows/blob/b2447c30e01a7fe27874c963ab747eebccde074e/Eyebrows/image/login.gif)
+![image](https://github.com/Moosphan/Eyebrows/blob/b2447c30e01a7fe27874c963ab747eebccde074e/Eyebrows/image/eyebrows.gif)
 
 ## How to use
 
